@@ -23,9 +23,9 @@ body {
 section {
 	border: 1px solid lightgray;
 	border-radius: 15px 15px 0 0;
-  margin-top: 2rem;
+    margin-top: 2rem;
 	height: 25rem;
-  width: 60%;
+    width: 60%;
 	overflow: hidden;
 	color: white;
 }
@@ -395,6 +395,7 @@ section .header-bar {
 /* Challenge 15 */
 #challenge15 {
   height: 25rem;
+  margin-bottom: 2rem;
 }
 
 #challenge15 .container {
